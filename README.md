@@ -8,9 +8,8 @@ The GDP data used in this project was downloaded from the **World Bank** and is 
 
 ## Project Files  
 - **`main.py`** – Main script containing data processing, visualization, and prediction logic.  
-- **`Metadata_Country_API.csv`** – Metadata with country-specific information.  
-- **`Metadata_Indicator_API.csv`** – Metadata describing indicators.  
-- **`linearRegresion_Germany.xlsx`** – Output file with GDP forecasts.  
+- **`API_NY.GDP.MKTP.CD_DS2_es_csv_v2_5998674`** – Data with information.  
+- **`requirements`** – Requirements to create project.  
 
 ## Features  
 - **Data Processing:**  
