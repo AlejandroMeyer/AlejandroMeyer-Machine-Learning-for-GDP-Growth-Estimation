@@ -31,5 +31,5 @@ The GDP data used in this project was downloaded from the **World Bank** and is 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/germany-gdp-forecast.git
+   git clone https://github.com/AlejandroMeyer/Machine-Learning-for-GDP-Growth-Estimation.git
    cd germany-gdp-forecast
